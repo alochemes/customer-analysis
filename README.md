@@ -96,7 +96,7 @@ If you're not sure whether your business fits, run it on `sample-data.csv` first
 
 ## See also
 
-- [Blog post: "Your spreadsheet already knows whether your business is working"](#) — the why-this-matters writeup, including the most common ways founders misread their own metrics
+- [Blog post: "Your spreadsheet already knows whether your business is working"](https://andrewlochemes1.substack.com/p/your-spreadsheet-already-knows-whether) — the why-this-matters writeup, including the most common ways founders misread their own metrics
 - [Sample output](./sample-output.md) — what the analysis looks like when run on `sample-data.csv`
 
 ## Contributing
