@@ -1,0 +1,478 @@
+customer_id,period,amount
+Acme Technologies,2025-07,1356.42
+Acme Technologies,2025-08,1247.11
+Acme Technologies,2025-09,1208.8
+Acme Technologies,2025-10,1198.21
+Acme Technologies,2025-11,1104.48
+Acme Technologies,2025-12,1055.8
+Acme Technologies,2026-01,1381.43
+Acme Technologies,2026-02,1211.85
+Aperture Labs,2026-02,1013.16
+Black Mesa Holdings,2025-02,815.48
+Black Mesa Holdings,2025-03,994.9
+Black Mesa Holdings,2025-04,846.56
+Black Mesa Holdings,2025-05,1002.8
+Black Mesa Holdings,2025-06,1078.84
+Black Mesa Holdings,2025-07,983.52
+Bluth Co,2025-04,1280.06
+Bluth Co,2025-05,1414.28
+Bluth Co,2025-06,1362.2
+Bluth Co,2025-07,1486.84
+Bluth Co,2025-08,1334.14
+Bluth Co,2025-09,1472.11
+Bluth Co,2025-10,1449.3
+Bluth Co,2025-11,1340.83
+Bluth Co,2025-12,1382.32
+Bluth Co,2026-01,1298.86
+Bluth Co,2026-02,1425.62
+Buy n Large Co,2025-05,411.9
+Buy n Large Co,2025-06,541.35
+Buy n Large Co,2025-07,430.05
+Buy n Large Co,2025-08,497.55
+Buy n Large Co,2025-09,622.84
+Buy n Large Co,2025-10,605.04
+Buy n Large Co,2025-11,378.44
+Buy n Large Co,2025-12,478.03
+Buy n Large Co,2026-01,433.87
+Buy n Large Co,2026-02,351.77
+Central Perk Industries,2025-08,2990.55
+Central Perk Industries,2025-09,2980.94
+Central Perk Industries,2025-10,3206.0
+Central Perk Industries,2025-11,3822.04
+Central Perk Industries,2025-12,3595.27
+Central Perk Industries,2026-01,3196.9
+Central Perk Industries,2026-02,3441.48
+Cheers Holdings,2025-03,1557.06
+Cheers Holdings,2025-04,1439.98
+Cheers Holdings,2025-05,1346.18
+Cheers Holdings,2025-06,1340.97
+Cheers Holdings,2025-07,1510.92
+Cheers Holdings,2025-08,1566.71
+Cheers Holdings,2025-09,1460.27
+Cheers Holdings,2025-10,1506.17
+Cheers Holdings,2025-11,1352.88
+Cheers Holdings,2025-12,1267.08
+Cheers Holdings,2026-01,1357.73
+Cheers Holdings,2026-02,1351.63
+Cogswell Partners,2025-08,584.38
+Cogswell Partners,2025-09,663.96
+Cogswell Partners,2025-10,503.06
+Cogswell Partners,2025-11,688.57
+Cogswell Partners,2025-12,613.92
+Cogswell Partners,2026-01,521.38
+Cogswell Partners,2026-02,673.68
+Compuglobal Partners,2024-12,2343.1
+Compuglobal Partners,2025-01,2618.25
+Compuglobal Partners,2025-02,2512.35
+Compuglobal Partners,2025-03,2243.47
+Compuglobal Partners,2025-04,2594.31
+Compuglobal Partners,2025-05,2382.37
+Compuglobal Partners,2025-06,2656.02
+Compuglobal Partners,2025-07,2230.26
+Compuglobal Partners,2025-08,2523.25
+Compuglobal Partners,2025-09,2402.35
+Compuglobal Partners,2025-10,2719.49
+Compuglobal Partners,2025-11,2326.55
+Compuglobal Partners,2025-12,2257.07
+Compuglobal Partners,2026-01,2683.92
+Compuglobal Partners,2026-02,2551.1
+Cyberdyne Holdings,2024-10,1042.06
+Cyberdyne Holdings,2024-11,970.44
+Cyberdyne Holdings,2024-12,847.02
+Cyberdyne Holdings,2025-01,841.16
+Cyberdyne Holdings,2025-02,892.53
+Cyberdyne Holdings,2025-03,1060.35
+Cyberdyne Holdings,2025-04,1031.13
+Cyberdyne Holdings,2025-05,1049.48
+Cyberdyne Holdings,2025-06,1060.33
+Cyberdyne Holdings,2025-07,864.63
+Cyberdyne Holdings,2025-08,875.84
+Cyberdyne Holdings,2025-09,834.15
+Cyberdyne Holdings,2025-10,1026.58
+Cyberdyne Holdings,2025-11,1056.13
+Cyberdyne Holdings,2025-12,920.4
+Cyberdyne Holdings,2026-01,981.28
+Cyberdyne Holdings,2026-02,848.86
+Dunder Mifflin Inc,2025-12,406.29
+Dunder Mifflin Inc,2026-01,374.92
+Dunder Mifflin Inc,2026-02,388.32
+Encom Group,2025-08,333.12
+Encom Group,2025-09,403.41
+Encom Group,2025-10,469.58
+Encom Group,2025-11,433.28
+Encom Group,2025-12,320.66
+Encom Group,2026-01,529.62
+Encom Group,2026-02,465.91
+Genco Group,2024-10,1608.13
+Genco Group,2024-11,1960.07
+Genco Group,2024-12,1873.92
+Genco Group,2025-01,1974.4
+Genco Group,2025-02,1666.55
+Genco Group,2025-03,1828.3
+Genco Group,2025-04,1789.04
+Genco Group,2025-05,1784.79
+Genco Group,2025-06,2012.22
+Genco Group,2025-07,2082.97
+Genco Group,2025-08,1709.97
+Genco Group,2025-09,1881.94
+Genco Group,2025-10,1875.73
+Genco Group,2025-11,1946.8
+Genco Group,2025-12,2059.85
+Genco Group,2026-01,1656.8
+Genco Group,2026-02,1658.57
+Globex Co,2024-10,1674.25
+Globex Co,2024-11,1568.27
+Globex Co,2024-12,1625.45
+Globex Co,2025-01,1745.75
+Globex Co,2025-02,1927.39
+Globex Co,2025-03,1802.84
+Globex Co,2025-04,1833.01
+Globex Co,2025-05,1521.33
+Globex Co,2025-06,1596.08
+Globex Co,2025-07,1731.94
+Globex Co,2025-08,1909.7
+Globex Co,2025-09,1730.47
+Globex Co,2025-10,1899.11
+Globex Co,2025-11,1628.71
+Globex Co,2025-12,1916.09
+Globex Co,2026-01,1538.87
+Globex Co,2026-02,1738.75
+Globotech Systems,2025-04,891.99
+Globotech Systems,2025-05,886.91
+Globotech Systems,2025-06,1010.5
+Globotech Systems,2025-07,1060.14
+Globotech Systems,2025-08,1100.11
+Globotech Systems,2025-09,1212.49
+Globotech Systems,2025-10,1200.51
+Globotech Systems,2025-11,1386.25
+Globotech Systems,2025-12,1259.5
+Globotech Systems,2026-01,1592.04
+Globotech Systems,2026-02,1547.21
+Gringotts LLC,2024-12,1396.68
+Gringotts LLC,2025-01,1310.83
+Gringotts LLC,2025-02,1458.33
+Gringotts LLC,2025-03,1545.03
+Gringotts LLC,2025-04,1428.17
+Gringotts LLC,2025-05,1387.92
+Gringotts LLC,2025-06,1192.14
+Hooli Solutions,2025-04,999.12
+Hooli Solutions,2025-05,1007.33
+Hooli Solutions,2025-06,785.92
+Hooli Solutions,2025-07,752.38
+Hooli Solutions,2025-08,872.26
+Initech Corp,2025-02,489.76
+Initech Corp,2025-03,593.18
+Initech Corp,2025-04,501.41
+Initech Corp,2025-05,323.45
+Initech Corp,2025-06,546.33
+Initech Corp,2025-07,403.75
+Initech Corp,2025-08,504.0
+Initech Corp,2025-09,579.88
+Initech Corp,2025-10,358.28
+Initech Corp,2025-11,353.09
+Initech Corp,2025-12,350.78
+Initech Corp,2026-01,473.66
+Initech Corp,2026-02,396.3
+Kruger LLC,2025-09,1579.74
+Kruger LLC,2025-10,1940.65
+Kruger LLC,2025-11,1982.53
+Kruger LLC,2025-12,1848.04
+Kruger LLC,2026-01,1590.05
+Kruger LLC,2026-02,2054.41
+Krusty Technologies,2025-05,2524.65
+Krusty Technologies,2025-06,2873.89
+Krusty Technologies,2025-07,2329.35
+Krusty Technologies,2025-08,2638.56
+Krusty Technologies,2025-09,3071.56
+Krusty Technologies,2025-10,3069.67
+Krusty Technologies,2025-11,2329.93
+Krusty Technologies,2025-12,2442.06
+Krusty Technologies,2026-01,2483.78
+Krusty Technologies,2026-02,3019.3
+Lockhart Co,2025-01,933.45
+Lockhart Co,2025-02,774.22
+Lockhart Co,2025-03,796.8
+Lockhart Co,2025-04,920.81
+Lockhart Co,2025-05,906.99
+Lockhart Co,2025-06,833.45
+Lockhart Co,2025-07,882.0
+Lockhart Co,2025-08,898.13
+Lockhart Co,2025-09,922.34
+Lockhart Co,2025-10,821.09
+Lockhart Co,2025-11,767.87
+Lockhart Co,2025-12,820.45
+Lockhart Co,2026-01,796.53
+Lockhart Co,2026-02,865.75
+MacLaren Co,2025-07,10984.08
+MacLaren Co,2025-08,10455.47
+MacLaren Co,2025-09,11523.05
+MacLaren Co,2025-10,10922.96
+MacLaren Co,2025-11,10893.7
+MacLaren Co,2025-12,11853.2
+MacLaren Co,2026-01,11622.78
+MacLaren Co,2026-02,10869.28
+Massive Dynamic Inc,2025-06,3065.3
+Massive Dynamic Inc,2025-07,3258.53
+Massive Dynamic Inc,2025-08,2987.74
+Massive Dynamic Inc,2025-09,2340.64
+Massive Dynamic Inc,2025-10,2211.25
+Massive Dynamic Inc,2025-11,2177.85
+Massive Dynamic Inc,2025-12,1772.35
+Massive Dynamic Inc,2026-01,1531.36
+Massive Dynamic Inc,2026-02,1550.25
+Megacorp Group,2025-10,562.0
+Megacorp Group,2025-11,628.79
+Megacorp Group,2025-12,716.25
+Megacorp Group,2026-01,739.31
+Megacorp Group,2026-02,802.27
+Multivac Technologies,2024-12,181.66
+Multivac Technologies,2025-01,194.59
+Multivac Technologies,2025-02,259.0
+Multivac Technologies,2025-03,260.73
+Multivac Technologies,2025-04,171.34
+Multivac Technologies,2025-05,219.14
+Multivac Technologies,2025-06,237.93
+Multivac Technologies,2025-07,220.28
+Multivac Technologies,2025-08,191.19
+Multivac Technologies,2025-09,220.88
+Multivac Technologies,2025-10,288.35
+Multivac Technologies,2025-11,243.7
+Multivac Technologies,2025-12,259.22
+Multivac Technologies,2026-01,281.66
+Multivac Technologies,2026-02,268.97
+Nakatomi Inc,2024-10,459.47
+Nakatomi Inc,2024-11,574.49
+Nakatomi Inc,2024-12,429.34
+Nakatomi Inc,2025-01,545.35
+Nakatomi Inc,2025-02,486.27
+Nakatomi Inc,2025-03,526.91
+Nakatomi Inc,2025-04,680.16
+Nakatomi Inc,2025-05,545.36
+Nakatomi Inc,2025-06,676.91
+Nakatomi Inc,2025-07,705.1
+Nakatomi Inc,2025-08,500.6
+Nakatomi Inc,2025-09,440.5
+Nakatomi Inc,2025-10,418.44
+Nakatomi Inc,2025-11,601.91
+Nakatomi Inc,2025-12,764.37
+Nakatomi Inc,2026-01,535.07
+Nakatomi Inc,2026-02,640.97
+Northwind Inc,2025-12,1688.96
+Northwind Inc,2026-01,1972.56
+Northwind Inc,2026-02,1602.49
+Omni Consumer Solutions,2025-08,2243.83
+Omni Consumer Solutions,2025-09,2329.67
+Omni Consumer Solutions,2025-10,1934.67
+Omni Consumer Solutions,2025-11,2320.35
+Omni Consumer Solutions,2025-12,1897.13
+Omni Consumer Solutions,2026-01,2168.71
+Omni Consumer Solutions,2026-02,2215.47
+Paddy's Group,2024-11,27818
+Pearson Hardman Labs,2025-10,525.91
+Pearson Hardman Labs,2025-11,750.86
+Pearson Hardman Labs,2025-12,615.97
+Pearson Hardman Labs,2026-01,557.25
+Pearson Hardman Labs,2026-02,742.82
+Pendant Co,2025-10,1089.1
+Pendant Co,2025-11,1228.11
+Pendant Co,2025-12,1124.73
+Pendant Co,2026-01,958.62
+Pendant Co,2026-02,1273.96
+Penny Lane Partners,2024-09,2000.72
+Penny Lane Partners,2024-10,2274.68
+Penny Lane Partners,2024-11,2652.95
+Penny Lane Partners,2024-12,2553.19
+Penny Lane Partners,2025-01,2200.47
+Penny Lane Partners,2025-02,2490.71
+Penny Lane Partners,2025-03,2514.64
+Penny Lane Partners,2025-04,2551.94
+Penny Lane Partners,2025-05,2466.22
+Penny Lane Partners,2025-06,2342.6
+Penny Lane Partners,2025-07,2133.19
+Penny Lane Partners,2025-08,2152.81
+Penny Lane Partners,2025-09,2040.47
+Penny Lane Partners,2025-10,2518.34
+Penny Lane Partners,2025-11,2042.21
+Penny Lane Partners,2025-12,2220.48
+Penny Lane Partners,2026-01,2034.58
+Penny Lane Partners,2026-02,2335.62
+Pied Piper Technologies,2025-02,2375.86
+Pied Piper Technologies,2025-03,2508.13
+Pied Piper Technologies,2025-04,2424.99
+Pied Piper Technologies,2025-05,2238.82
+Pied Piper Technologies,2025-06,2443.13
+Pied Piper Technologies,2025-07,2601.8
+Pied Piper Technologies,2025-08,2125.53
+Pied Piper Technologies,2025-09,2494.09
+Pied Piper Technologies,2025-10,2309.14
+Pied Piper Technologies,2025-11,2271.7
+Pied Piper Technologies,2025-12,2238.87
+Pied Piper Technologies,2026-01,2441.23
+Pied Piper Technologies,2026-02,2124.37
+Planet Express Group,2024-09,1127.17
+Planet Express Group,2024-10,1424.49
+Planet Express Group,2024-11,1369.52
+Planet Express Group,2024-12,1251.99
+Sabre Partners,2025-06,372.72
+Sabre Partners,2025-07,626.7
+Sabre Partners,2025-08,414.57
+Sabre Partners,2025-09,436.92
+Sabre Partners,2025-10,583.68
+Sabre Partners,2025-11,388.69
+Sabre Partners,2025-12,358.77
+Sabre Partners,2026-01,636.15
+Sabre Partners,2026-02,525.91
+Soylent Inc,2025-11,1056.58
+Spacely Labs,2025-03,1726.68
+Spacely Labs,2025-04,1573.82
+Spacely Labs,2025-05,1706.59
+Spacely Labs,2025-06,1561.37
+Spacely Labs,2025-07,1817.57
+Spacely Labs,2025-08,1599.38
+Spacely Labs,2025-09,1500.26
+Spacely Labs,2025-10,1410.72
+Spacely Labs,2025-11,1389.79
+Spacely Labs,2025-12,1649.25
+Spacely Labs,2026-01,1666.06
+Spacely Labs,2026-02,1383.05
+Stark LLC,2025-01,794.14
+Stark LLC,2025-02,530.77
+Stark LLC,2025-03,542.69
+Stark LLC,2025-04,773.23
+Stark LLC,2025-05,593.16
+Stark LLC,2025-06,805.69
+Stark LLC,2025-07,735.19
+Stark LLC,2025-08,567.94
+Stark LLC,2025-09,463.2
+Stark LLC,2025-10,832.36
+Stark LLC,2025-11,492.9
+Stark LLC,2025-12,742.62
+Stark LLC,2026-01,651.5
+Stark LLC,2026-02,757.61
+Sterling Cooper Inc,2024-09,2545.73
+Sterling Cooper Inc,2024-10,2513.46
+Sterling Cooper Inc,2024-11,2153.99
+Sterling Cooper Inc,2024-12,1982.83
+Sterling Cooper Inc,2025-01,2545.24
+Sterling Cooper Inc,2025-02,2592.52
+Sterling Cooper Inc,2025-03,2001.84
+Sterling Cooper Inc,2025-04,2276.39
+Sterling Cooper Inc,2025-05,1990.57
+Sterling Cooper Inc,2025-06,2464.72
+Sterling Cooper Inc,2025-07,2468.31
+Sterling Cooper Inc,2025-08,2031.15
+Sterling Cooper Inc,2025-09,2269.05
+Sterling Cooper Inc,2025-10,2320.16
+Sterling Cooper Inc,2025-11,2124.88
+Sterling Cooper Inc,2025-12,2541.41
+Sterling Cooper Inc,2026-01,2233.29
+Sterling Cooper Inc,2026-02,2088.35
+Tyrell Industries,2025-09,307.68
+Tyrell Industries,2025-10,296.26
+Tyrell Industries,2025-11,195.95
+Tyrell Industries,2025-12,242.89
+Tyrell Industries,2026-01,202.92
+Tyrell Industries,2026-02,230.45
+Umbrella Industries,2025-12,15785.61
+Umbrella Industries,2026-01,17932.27
+Umbrella Industries,2026-02,15578.99
+Vandelay Solutions,2024-10,923.69
+Vandelay Solutions,2024-11,904.67
+Vandelay Solutions,2024-12,755.29
+Vandelay Solutions,2025-01,813.14
+Vandelay Solutions,2025-02,734.62
+Vandelay Solutions,2025-03,913.64
+Vandelay Solutions,2025-04,903.37
+Vandelay Solutions,2025-05,763.84
+Vandelay Solutions,2025-06,846.89
+Vandelay Solutions,2025-07,839.58
+Vandelay Solutions,2025-08,728.33
+Vandelay Solutions,2025-09,877.03
+Vandelay Solutions,2025-10,822.6
+Vandelay Solutions,2025-11,880.96
+Vandelay Solutions,2025-12,820.4
+Vandelay Solutions,2026-01,691.19
+Vandelay Solutions,2026-02,770.11
+Vehement Co,2025-08,384.17
+Vehement Co,2025-09,399.3
+Vehement Co,2025-10,411.01
+Vehement Co,2025-11,325.53
+Vehement Co,2025-12,396.89
+Vehement Co,2026-01,336.59
+Vehement Co,2026-02,350.2
+Wayne Solutions,2025-09,14545.77
+Wayne Solutions,2025-10,14744.49
+Wayne Solutions,2025-11,14999.51
+Wayne Solutions,2025-12,13753.38
+Wayne Solutions,2026-01,15290.09
+Wayne Solutions,2026-02,15611.64
+Wernham Hogg Holdings,2025-02,3008.02
+Wernham Hogg Holdings,2025-03,2349.27
+Wernham Hogg Holdings,2025-04,2836.85
+Wernham Hogg Holdings,2025-05,2830.93
+Wernham Hogg Holdings,2025-06,2354.51
+Wernham Hogg Holdings,2025-07,2897.67
+Wernham Hogg Holdings,2025-08,2956.56
+Wernham Hogg Holdings,2025-09,2394.1
+Wernham Hogg Holdings,2025-10,2461.08
+Wernham Hogg Holdings,2025-11,2741.52
+Wernham Hogg Holdings,2025-12,2419.25
+Wernham Hogg Holdings,2026-01,2454.49
+Wernham Hogg Holdings,2026-02,2681.59
+Weyland Co,2024-11,558.51
+Weyland Co,2024-12,679.67
+Weyland Co,2025-01,745.7
+Weyland Co,2025-02,682.46
+Weyland Co,2025-03,830.96
+Weyland Co,2025-04,773.73
+Weyland Co,2025-05,566.15
+Weyland Co,2025-06,591.16
+Weyland Co,2025-07,568.48
+Weyland Co,2025-08,725.5
+Weyland Co,2025-09,500.49
+Weyland Co,2025-10,469.11
+Weyland Co,2025-11,472.6
+Weyland Co,2025-12,564.56
+Weyland Co,2026-01,816.86
+Weyland Co,2026-02,698.36
+Wonka Systems,2025-06,631.73
+Wonka Systems,2025-07,463.15
+Wonka Systems,2025-08,571.5
+Wonka Systems,2025-09,614.6
+Wonka Systems,2025-10,551.58
+Wonka Systems,2025-11,716.14
+Wonka Systems,2025-12,600.76
+Wonka Systems,2026-01,672.92
+Wonka Systems,2026-02,590.88
+Wonkavision Group,2024-11,2817.45
+Wonkavision Group,2024-12,3588.36
+Wonkavision Group,2025-01,3143.56
+Wonkavision Group,2025-02,3665.83
+Wonkavision Group,2025-03,3304.66
+Wonkavision Group,2025-04,3313.64
+Wonkavision Group,2025-05,2790.04
+Wonkavision Group,2025-06,2831.06
+Wonkavision Group,2025-07,3389.83
+Wonkavision Group,2025-08,3300.34
+Wonkavision Group,2025-09,3058.68
+Wonkavision Group,2025-10,3004.68
+Wonkavision Group,2025-11,3401.82
+Wonkavision Group,2025-12,3056.55
+Wonkavision Group,2026-01,3009.39
+Wonkavision Group,2026-02,2878.55
+Yoyodyne Holdings,2024-11,939.02
+Yoyodyne Holdings,2024-12,868.71
+Yoyodyne Holdings,2025-01,836.49
+Yoyodyne Holdings,2025-02,780.26
+Yoyodyne Holdings,2025-03,969.47
+Yoyodyne Holdings,2025-04,855.99
+Yoyodyne Holdings,2025-05,898.53
+Yoyodyne Holdings,2025-06,944.25
+Yoyodyne Holdings,2025-07,988.38
+Yoyodyne Holdings,2025-08,850.61
+Yoyodyne Holdings,2025-09,769.02
+Yoyodyne Holdings,2025-10,997.35
+Yoyodyne Holdings,2025-11,831.81
+Yoyodyne Holdings,2025-12,917.66
+Yoyodyne Holdings,2026-01,1025.98
+Yoyodyne Holdings,2026-02,771.88
